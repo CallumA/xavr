@@ -201,7 +201,7 @@
 		
 		<dict>
 			<key>Default</key>
-			<string>cu.usbmodem*</string>
+			<string>/dev/cu.usbmodem*</string>
 			<key>Description</key>
 			<string>Serial Port (for serial programmer)</string>
 			<key>Identifier</key>
